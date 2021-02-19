@@ -1,0 +1,163 @@
+/* Color codes
+Sky Blue: #6CABDD
+Dark Blue: #1C2C5B
+Gold: #FFC659
+Dark Gold: #D4A12A
+*/
+h1
+{
+    text-align: center;
+    color: #6CABDD;
+    font-size: 55px !important;
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2
+{
+    text-align: center;
+    margin: 0;
+    color: #1C2C5B;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3
+{
+    text-align: center;
+    color: #6CABDD;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h4
+{
+    text-align: center;
+    font-size: 150% !important;
+    color: #1C2C5B;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body,html
+{
+    min-height: 100%;
+}
+
+footer
+{
+    background-color: #6CABDD !important;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    position: relative;
+}
+hr
+{
+    width: 100%;
+    background-color:#D4A12A;
+}
+/*Images*/
+.img-rounded
+{
+    border-radius: 10%;
+}
+.img-fluid
+{
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+/*navbar and links*/
+.linkcolor
+{
+    color: #1C2C5B;
+    opacity: 1;
+}
+.linkcolor:hover
+{
+    color:#D4A12A;
+    opacity: .75;
+    transition: .6s;
+}
+.navbar-default
+{
+    background-color: #6CABDD;
+    padding: none !important;
+}
+.navbar-dark
+{
+    color: #1C2C5B !important;
+}
+.jumbotron
+{
+    margin-bottom: 0px !important;
+    background: url("content/SPACECITY.png") center no-repeat;
+    background-size: contain;
+    background-color: #6CABDD !important;
+}
+.navbar
+{
+    float:none;
+    margin:0 auto;
+    display: block;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;
+}
+.navbar-toggler:focus, .navbar-toggler:active
+{
+    outline: none;
+    box-shadow: none;
+}
+
+.center
+{
+    text-align: center;
+    margin: 0;
+}
+.text-muted
+{
+    font-size: 12.5px;
+}
+.blueback
+{
+    background-color: #6CABDD !important;
+}
+iframe
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.fa:hover
+{
+    opacity: 5;
+    color:#D4A12A;
+    text-decoration: none;
+    transition: .6s;
+}
+.nolineurl:hover
+{
+    text-decoration: none;
+}
+.smpagefoot
+{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+.fbcolor
+{
+    color: #3b5998;
+}
+.twittercolor
+{
+    color: #08a0e9;
+}
+.instacolor
+{
+    color: #e4405f;
+}
+.whitelogo
+{
+    color: white;
+    padding-left: 15px;
+}
+.footertext
+{
+    font-size: 10px;
+}
