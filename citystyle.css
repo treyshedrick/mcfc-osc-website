@@ -70,8 +70,8 @@ hr
 }
 .linkcolor:hover
 {
-    color:#D4A12A;
-    opacity: .75;
+    color: white;
+    opacity: .9;
     transition: .6s;
 }
 .navbar-default
@@ -125,9 +125,13 @@ iframe
 .fa:hover
 {
     opacity: 5;
-    color:#D4A12A;
+    color: white !important;
     text-decoration: none;
     transition: .6s;
+}
+.fa
+{
+    color:#1C2C5B !important;
 }
 .nolineurl:hover
 {
