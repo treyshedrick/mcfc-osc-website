@@ -137,25 +137,6 @@ iframe
 {
     text-decoration: none;
 }
-.smpagefoot
-{
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    left: 0;
-}
-.fbcolor
-{
-    color: #3b5998;
-}
-.twittercolor
-{
-    color: #08a0e9;
-}
-.instacolor
-{
-    color: #e4405f;
-}
 .whitelogo
 {
     color: white;
