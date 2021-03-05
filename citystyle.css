@@ -149,4 +149,17 @@ iframe
 .anchor {
     position: absolute;
     transform: translateY(-25vh);
-  }
+}
+.events
+{
+    width: 500px;
+    height: 280px;
+}
+
+@media only screen and (max-width:550px){
+    .events
+    {
+        width: 300px;
+        height: 400px;
+    }
+}
